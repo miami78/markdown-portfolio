@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Image of a Potato.....yes i`m a potato](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiT4KPlnb_kAhWvyIUKHSN7CwIQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pinclipart.com%2Fpindetail%2FJRJixR_clip-art-potato-clipart-baked-potato-clip-art%2F&psig=AOvVaw0_jIEarktZ-Givk3dJTpEm&ust=1567963607002695) 
