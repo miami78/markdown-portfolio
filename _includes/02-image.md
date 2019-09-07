@@ -1,1 +1,1 @@
-![Image of a Potato.....yes i`m a potato](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiT4KPlnb_kAhWvyIUKHSN7CwIQjRx6BAgBEAQ&url=https%3A%2F%2Fwww.pinclipart.com%2Fpindetail%2FJRJixR_clip-art-potato-clipart-baked-potato-clip-art%2F&psig=AOvVaw0_jIEarktZ-Givk3dJTpEm&ust=1567963607002695) 
+![Image of a Potato.....yes i`m a potato](https://res.cloudinary.com/miami/image/upload/v1567878041/test/67490967_2343592872374815_2758636792478433280_o_w6b2i9.jpg)
